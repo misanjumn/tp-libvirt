@@ -86,7 +86,7 @@ def run(test, params, env):
         Check guest domstate. Guest should be running at all times.
 
         param vm: vm object
-        returns: 
+        returns:
         1. 0 if guest is running
         2. 1 if guest is not running
         """
